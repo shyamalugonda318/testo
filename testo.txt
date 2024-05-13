@@ -1,2 +1,5 @@
 Primary branch:
 This comment is from main branch
+
+new branch:
+This comment is from new branch
