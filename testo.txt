@@ -1,9 +1,5 @@
 Primary branch:
 This comment is from main branch
-newdx changes:
-This is new branch created changes
 
-------------------------------------------------------
-
-new branch:
+new branch + newdx changes:
 This comment is from new branch
